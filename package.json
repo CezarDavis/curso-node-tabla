@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "numero12": "node app --numero=12"
+    "numero7": "node app --numero=7"
   },
   "author": "Cesar David",
   "license": "MIT",
